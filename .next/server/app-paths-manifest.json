@@ -1,0 +1,15 @@
+{
+  "/page": "app/page.js",
+  "/api/product/list-by-remark/route": "app/api/product/list-by-remark/route.js",
+  "/api/product/slider-list/route": "app/api/product/slider-list/route.js",
+  "/api/cart/list/route": "app/api/cart/list/route.js",
+  "/api/wish/list/route": "app/api/wish/list/route.js",
+  "/user/cart/page": "app/user/cart/page.js",
+  "/user/order/list/page": "app/user/order/list/page.js",
+  "/user/order/details/page": "app/user/order/details/page.js",
+  "/product/by-category/page": "app/product/by-category/page.js",
+  "/api/product/category-list/route": "app/api/product/category-list/route.js",
+  "/api/features/features-list/route": "app/api/features/features-list/route.js",
+  "/api/product/brand-list/route": "app/api/product/brand-list/route.js",
+  "/api/user/logout/route": "app/api/user/logout/route.js"
+}
